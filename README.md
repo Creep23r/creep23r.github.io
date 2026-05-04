@@ -1,2 +1,2 @@
-# creep23r.github.io
-pagina de perfil de creep23r
+# Mi página de perfil 
+[!NOTE] Se trata de un proyecto sin copyright, pensado para poder adaptarse y ser reutilizado por alguien que le vaya a dar un buen uso, simplemente pido que al reutilizarlo se cambien todos los links asociados a mi persona 😊.
